@@ -1,1683 +1,493 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="eldukedelasapuesta IPTV", Gerado por eldukedelasapuesta IPTV(PlayStore
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/13max.png" group-title="Entretenimiento", 13 MAX (Argentina)
+http://coninfo.net:1935/13maxhd/live_720p/.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA002AMCLA.png" group-title="Latino", LA002:AMC LA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58055
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MeaSmiv.jpg" group-title="MEXICO", 15TV Sabinas | SD
+http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA003AnimalPlanetLA.png" group-title="Latino", LA003:Animal Planet LA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58054
+#EXTINF:-1 tvg-logo="" group-title="Internacional", ABC Live
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA004AXNLA.png" group-title="Latino", LA004:AXN LA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58053
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/abc.png" group-title="Internacional", ABC News
+http://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA006AzClick.png" group-title="Latino", LA006:Az Click
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58051
+#EXTINF:-1 tvg-logo="" group-title="Internacional", AlJazeera Arabe
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA007Azteca13.png" group-title="Latino", LA007:Azteca 13
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58050
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", AlJazeera ENGLISH
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA008Azteca7.png" group-title="Latino", LA008:Azteca 7
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58049
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/americanhorrors.png" group-title="Entretenimiento", American Horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA010AztecaMundo.png" group-title="Latino", LA010:Azteca Mundo
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58047
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/aprendetv.png" group-title="Cultura", Aprende TV
+http://liveingesta118.cdnmedia.tv//dgtvelive/smil:aprend24.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA011AztecaNoticias.png" group-title="Latino", LA011:Azteca Noticias
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58046
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/" group-title="Internacional", Bloomberg
+http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA012Bandamax.png" group-title="Latino", LA012:Bandamax
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58045
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cachipum.png" group-title="Infantil", Cachipum TV
+http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA013Boomerang.png" group-title="Latino", LA013:Boomerang
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58044
+#EXTINF:-1 tvg-id="" tvg-logo="https://advancescreenings.com/img/outlets/c/california_music_channel.jpg" group-title="Musica", California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA014Canal11.png" group-title="Latino", LA014:Canal 11
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58043
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lg6TVYn.png" group-title="CHILE", Camara de Diputados (DVR) | SD
+http://camara.02.cl.cdnz.cl/cdndvr/ngrp:live_all/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA015Canal5.png" group-title="Latino", LA015:Canal 5
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58042
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lg6TVYn.png" group-title="CHILE", Camara de Diputados | SD
+http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA016CanalDeLasEstrellas.png" group-title="Latino", LA016:Canal De Las Estrellas
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58041
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="MEXICO", Canal 10 Chetumal | HD
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA017Caracol.png" group-title="Latino", LA017:Caracol
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58040
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LU2WQFP.jpg" group-title="ARGENTINA", Canal 11 Ushuaia | HD
+https://stream.solumedia.com.ar/c11/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA018CartonNetwork.png" group-title="Latino", LA018:Carton Network
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58039
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qMgoMeO.png" group-title="MEXICO", Canal 20 Zacatecas | SD
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA020CineCanal.png" group-title="Latino", LA020:Cine Canal
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58037
+#EXTINF:-1 tvg-logo="https://igx.4sqi.net/img/general/200x200/27679561_G1AdkrWJvY8Vn4MTPtLWhdvidYwIbTrPu04DFZx2gPw.png" group-title="Entretenimiento", Canal 26
+http://200.115.193.177/live/26hd-720/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA021CineLatino.png" group-title="Latino", LA021:Cine Latino
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58036
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFfX2fC.jpg" group-title="MEXICO", Canal 4 | SD
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA022CineMax.png" group-title="Latino", LA022:Cine Max
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58035
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XHauFcA.png" group-title="ARGENTINA", Canal 5 Telesol | HD
+http://149.56.98.124:9090/hls/telesol.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA023ClaroSports.png" group-title="Latino", LA023:Claro Sports
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58034
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tZ3gJiP.png" group-title="CHILE", Canal 9 | HD | Concepcion
+http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA024CNNenEspagnol.png" group-title="Latino", LA024:CNN en Espagnol
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58033
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nD9TVZg.jpg" group-title="ARGENTINA", Canal 9 Comodoro Rivadavia | SD
+http://live.canalnueve.tv:8082/hls/canal.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA026DePelicula.png" group-title="Latino", LA026:De Pelicula
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58031
+#EXTINF:-1 tvg-logo="https://i.imgur.com/any5MCR.png" group-title="COLOMBIA", Canal CNC Medellin | SD
+http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA027DiscoveryHomeHealthLA.png" group-title="Latino", LA027:Discovery Home Health LA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58030
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DpN7K62.png" group-title="MEXICO", Canal del Congreso | SD
+http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA028DiscoveryLA.png" group-title="Latino", LA028:Discovery LA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58029
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qmFK5y8.gif" group-title="ARGENTINA", Canal Provincial | SD
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA029DiscoveryCivilization.png" group-title="Latino", LA029:Discovery Civilization
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58028
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6xKwAuc.png" group-title="MEXICO", Capital 21 | SD
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA031DiscoveryKids.png" group-title="Latino", LA031:Discovery Kids
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58026
+#EXTINF:-1 tvg-logo="" group-title="CHILE", Carolina TV
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA032DiscoveryScienceLA.png" group-title="Latino", LA032:Discovery Science LA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58025
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cb24.png" group-title="Entretenimiento", CB24
+http://18.191.91.130:1935/live/CB24/.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA033DiscoveryTeather.png" group-title="Latino", LA033:Discovery Teather
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58024
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cbs.png" group-title="Internacional", CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA034DiscoveryTLC.png" group-title="Latino", LA034:Discovery TLC
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58023
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cbtv_m.png" group-title="Entretenimiento", CBTV
+http://streamingcws20.com:1935/cbtv/videocbtv/.m3u8?DVR
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA035DiscoveryTurbo.png" group-title="Latino", LA035:Discovery Turbo
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58022
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oWya6SB.png" group-title="PERU", Central TV | SD
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA036Universal.png" group-title="Latino", LA036:Universal
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58021
+#EXTINF:-1 tvg-logo="" group-title="Internacional", CGTN ES
+http://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA037DisneyLA.png" group-title="Latino", LA037:Disney LA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58020
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2015chvlogo.png/605px-2015chvlogo.png" group-title="Entretenimiento", Chilevision
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA039DisneyXDLA.png" group-title="Latino", LA039:Disney XD LA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58018
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AopOaEX.jpg" group-title="CHILE", CHV | HD
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA040DistritoComedia.png" group-title="Latino", LA040:Distrito Comedia
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58017
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dd9PMar.png" group-title="CHILE", CNN Chile | HD (Mirror USA)
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA043BloombergLA.png" group-title="Latino", LA043:Bloomberg LA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58014
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G9jnpUn.png" group-title="ARGENTINA", Cool 103.7 (Radio con Video) | HD
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA044ELGourmet.png" group-title="Latino", LA044:EL Gourmet
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58013
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/digi24.png" group-title="Internacional", Digi 24 (Rumania)
+http://82.76.40.76/digi24edge/digi24.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA045ESPNLA.png" group-title="Latino", LA045:ESPN LA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58012
+#EXTINF:-1 tvg-logo="" group-title="Musica", Dream TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA046ESPN2.png" group-title="Latino", LA046:ESPN 2
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58011
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/dw.png" group-title="Internacional", DW
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA047ESPN3.png" group-title="Latino", LA047:ESPN 3
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58010
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/earthcam.png" group-title="Internacional", EarthCam South View
+http://video3.earthcam.com/fecnetwork/4017timessquare.flv/.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA048FilmAndArts.png" group-title="Latino", LA048:Film And Arts
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58009
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/earthcam.png" group-title="Internacional", EarthCam Street Cam
+http://video3.earthcam.com/fecnetwork/9974.flv/.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA050Univision.png" group-title="Latino", LA050:Univision
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58007
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/earthcam.png" group-title="Internacional", EarthCam Times Ware
+http://video3.earthcam.com/fecnetwork/hdtimes10.flv/.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA051FoxSeries.png" group-title="Latino", LA051:Fox Series
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58006
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica", EXATV
+http://streamingcws20.com:1935/examor/videoexamor/.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA052FoxAction.png" group-title="Latino", LA052:Fox Action
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58005
+#EXTINF:-1 tvg-logo="http://radioextremacr.com/img/logo.png" group-title="Cine", Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA053FoxCinema.png" group-title="Latino", LA053:Fox Cinema
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58004
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/fighttime.png" group-title="Deportes", Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA055FoxLA.png" group-title="Latino", LA055:Fox LA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58002
+#EXTINF:-1 tvg-logo="http://fmhot.cl/wp-content/uploads/2014/08/logo1.png" group-title="Cine", FM Hot
+http://fmhot.04.cl.cdnz.cl/fmhot/cdn.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA058FoxSports1.png" group-title="Latino", LA058:Fox Sports 1
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57999
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Grupo Formula
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA059FoxSports2.png" group-title="Latino", LA059:Fox Sports 2
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57998
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK6t7FP.jpg" group-title="GUATEMALA", Guatevision | SD
+http://api.new.livestream.com/accounts/25697071/events/7829275/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA060FoxSports3.png" group-title="Latino", LA060:Fox Sports 3
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57997
+#EXTINF:-1 tvg-id="" tvg-logo="http://todotv.net/tv/img/Hit-tv.png" group-title="Musica", Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA061FX.png" group-title="Latino", LA061:FX
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57996
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xWYteYe.png" group-title="MEXICO", Ingenio TV | SD
+http://live10.cdnmedia.tv/dgtvelive/smil:ingen30.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA062Warner.png" group-title="Latino", LA062:Warner
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57995
+#EXTINF:-1 tvg-logo="" group-title="España", La 2
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA063Glitz.png" group-title="Latino", LA063:Glitz
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57994
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oiW6vgk.jpg" group-title="ARGENTINA", Litus | HD
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA064GoldenEdge.png" group-title="Latino", LA064:Golden Edge
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57993
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HN9mYDP.png" group-title="CHILE", MEGA | HD
+http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA066H2LA.png" group-title="Latino", LA066:H2 LA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57991
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FiImwkf.png" group-title="PERU", Mega TV Araquipa | SD
+http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA067HBOLA.png" group-title="Latino", LA067:HBO LA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57990
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/27274/logo_melody%20channel1.png" group-title="Musica", Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA068HBO2LA.png" group-title="Latino", LA068:HBO 2 LA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57989
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/mexiquense.png" group-title="Entretenimiento", Mexiquense
+http://liveingesta118.cdnmedia.tv/tvmexicolive/tvmex.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA069HBOFamilyLA.png" group-title="Latino", LA069:HBO Family LA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57988
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VHSjbEj.png" group-title="MEXICO", Milenio | SD
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA070HBOSignatureLA.png" group-title="Latino", LA070:HBO Signature LA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57987
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x5jNF2N.png" group-title="Deportes", MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA072HOLATV.png" group-title="Latino", LA072:HOLA TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57985
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", MTV Noruega
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA074IDLA.png" group-title="Latino", LA074:ID LA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57983
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multimedios.png" group-title="Entretenimiento", Multimedios CDMX
+http://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?ref=http://www.multimedios.com
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA077WinSports.png" group-title="Latino", LA077:Win Sports
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57980
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multimedios.png" group-title="Entretenimiento", Multimedios Costa Rica
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA078MTVLA.png" group-title="Latino", LA078:MTV LA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57979
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO", Multimedios Laguna | HD
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA080FXM.png" group-title="Latino", LA080:FXM
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57977
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multimedios.png" group-title="Entretenimiento", Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA081NATGEOWildLA.png" group-title="Latino", LA081:NAT GEO Wild LA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57976
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO", Multimedios Monterrey | HD
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA082NATGEOLA.png" group-title="Latino", LA082:NAT GEO LA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57975
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multimedios.png" group-title="Entretenimiento", Multimedios Torreon
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?ref=http://www.multimedios.com
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA084NicktoonsLA.png" group-title="Latino", LA084:Nicktoons LA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57973
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multivision.png" group-title="Entretenimiento", Multivision Argentina
+http://panel.dattalive.com:1935/8250/8250/.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA089SYFYLA.png" group-title="Latino", LA089:SYFY LA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57968
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/munchen.png" group-title="Internacional", Munchen TV (Alemania)
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA092Unicable.png" group-title="Latino", LA092:Unicable
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57965
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/4a/8c/6b4a8c66-8505-6fce-da1f-3228a265429a/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg" group-title="Musica", Music Choice Mc Play
+http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA093TeleHit.png" group-title="Latino", LA093:Tele Hit
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57964
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/musictop.png" group-title="Musica", Music Top
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA094Telemundo.png" group-title="Latino", LA094:Telemundo
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57963
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oAdVLb8.png" group-title="ARGENTINA", Music Top | HD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA096CanalDisney.png" group-title="Latino", LA096:Canal Disney
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57961
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/nasa.png" group-title="Internacional", NASA iss
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA097TeleVisa.png" group-title="Latino", LA097:Tele Visa
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57960
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/nasa.png" group-title="Internacional", NASA Media
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA098Paramount.png" group-title="Latino", LA098:Paramount
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57959
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/nasa.png" group-title="Internacional", NASA Public
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA099TLCLA.png" group-title="Latino", LA099:TLC LA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57958
+#EXTINF:-1 tvg-logo="https://demedios.info/wp-content/uploads/2018/06/logo-net-tv.jpg" group-title="Entretenimiento", Net TV
+http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA100TLnovelas.png" group-title="Latino", LA100:TLnovelas
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57957
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cna.png" group-title="Internacional", News Asia
+http://drsh196ivjwe8.cloudfront.net/hls/cnai/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA101TNT.png" group-title="Latino", LA101:TNT
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57956
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Next TV
+http://198.1.117.5:1935/live/livestream/.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA102TNTSeries.png" group-title="Latino", LA102:TNT Series
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57955
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/nhkworld.png" group-title="Internacional", NHK World
+http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA104UNIMAS.png" group-title="Latino", LA104:UNIMAS
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57953
+#EXTINF:-1 tvg-id="" tvg-logo="https://top-radio.org/wp-content/uploads/logo-fb/jXYUj6Xx62.jpg" group-title="Infantil", Pequeradio
+http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA105TruTV.png" group-title="Latino", LA105:Tru TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57952
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rZuWrF8.png" group-title="ARGENTINA", Power HD | HD
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA107TVE.png" group-title="Latino", LA107:TVE
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/57950
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yb8aUmW.jpg" group-title="MEXICO", Puebla TV | SD
+http://189.203.247.136/live/pueblatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA109TELEMUNDO51(Miami).png" group-title="Latino", LA109:TELEMUNDO 51 (Miami)
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/59192
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.invubu.com/radio/radio_images/logos/radiou/radiou-logo500.png" group-title="Musica", Radio U
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/radioutv1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA118ElSalvador.png" group-title="Latino", LA118:El Salvador
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/59183
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NsPz9Tr.png" group-title="MEXICO", RCG | SD
+http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA126DWAmerica.png" group-title="Latino", LA126:Curacao_TV Direct 13
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/59175
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hxpSI0R.png" group-title="MEXICO", RCG 2 | SD
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA165CANALONCE.png" group-title="Latino", LA165:CANAL ONCE
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/59136
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LEBQ8B5.png" group-title="MEXICO", RCG 3 | SD
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA180Cinemoi.png" group-title="Latino", LA180:Cinemoi
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/59121
+#EXTINF:-1 tvg-logo="" group-title="Musica", SON POPULAR
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA235CinemaxActionHD.png" group-title="Latino", LA235:Cinemax Action HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/59066
+#EXTINF:-1tvg-logo="https://i.imgur.com/OBv7Wb7.png" group-title="COSTA RICA", Super Cinco | SD
+http://k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA260Cubavision(Cuba).png" group-title="Latino", LA260:Cubavision (Cuba)
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/59041
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="Entretenimiento", TC
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA267DirectvSports.png" group-title="Latino", LA267:Directv Sports
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/59034
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vWyTg5L.png" group-title="HONDURAS", Teleceiba Canal 7 | SD
+http://190.11.224.14:8134/liveevent.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA269DirectvSports2.png" group-title="Latino", LA269:Directv Sports 2
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/59032
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Teledoce
+https://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA299ELTRECEHD.png" group-title="Latino", LA299:EL TRECE HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/59002
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/telemax.png" group-title="Entretenimiento", Telemax
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA305ETCTV.png" group-title="Latino", LA305:ETC TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58996
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="ARGENTINA", Telemax | HD
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA310HCHSDHON.png" group-title="Latino", LA310:HCH SD HON
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58991
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="COSTA RICA", Telered | SD
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA324FoxPremiumActionHD.png" group-title="Latino", LA324:Fox Premium Action HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58977
+#EXTINF:-1 tvg-logo="https://i.imgur.com/adIFsFw.png" group-title="COSTA RICA", Teleuno | SD
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA354HBOPlusFHD.png" group-title="Latino", LA354:HBO Plus FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58947
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Telpin
+http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA355HBOPlusWestHD.png" group-title="Latino", LA355:HBO Plus West HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58946
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TgSeikY.png" group-title="HONDURAS", TEN Honduras | HD
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA356HBOEastHD.png" group-title="Latino", LA356:HBO East HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58945
+#EXTINF:-1tvg-logo="https://i.imgur.com/Zkfw06k.jpg" group-title="COSTA RICA", Ticavision | SD
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA376TELEMUSICA.png" group-title="Latino", LA376:RCN
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58925
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xcpZ2Gr.jpg" group-title="MEXICO", Tlaxcala TV | SD
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA416MoviePlexFHD.png" group-title="Latino", LA416:MoviePlex FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58885
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-gDfpykQXiAY/TtedvKOo74I/AAAAAAAARQ4/p6pXiwKtz08/s1600/tlx.png" group-title="Entretenimiento", TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA423MultimediosHD.png" group-title="Latino", LA423:Multimedios HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58878
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica", TMTV
+http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA426TELEUNIVERSO.png" group-title="Latino", LA426:TELEUNIVERSO
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58875
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/trt.png" group-title="Internacional", TRT 1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA431TVQuisqueya.png" group-title="Latino", LA431:TV Quisqueya
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58870
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/trt.png" group-title="Internacional", TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA468BoliviaTV.png" group-title="Latino", LA468:Bolivia TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58833
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eqpww5i.png" group-title="PERU", Turbo Mix Radio TV | SD
+http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA473TodoNoticias.png" group-title="Latino", LA473:Todo Noticias
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58828
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VkhYiMT.png" group-title="HONDURAS", TV Azteca Honduras | SD
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA489RCNNovelasHD.png" group-title="Latino", LA489:RCN Novelas HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58812
+#EXTINF:-1 tvg-logo="http://yusnaby.com/wp-content/uploads/tvmarti.jpg" group-title="CUBA", Tv Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA503RetroPlexFHD.png" group-title="Latino", LA503:Univision (Puerto Rico)
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58798
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8O0WxdF.png" group-title="MEXICO", TV Mas | SD
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA521ShowtimeEastFHD.png" group-title="Latino", LA521:Showtime East FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58780
+#EXTINF:-1 tvg-logo="http://www.prensario.net/Multimedios/imgs/21993_468.png" group-title="Entretenimiento", Tv Pop
+http://v3.tustreaming.cl/tvpop/live1/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA522SHOWTIMEFHD.png" group-title="Latino", LA522:SHOWTIME FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58779
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ozCnnDg.png" group-title="CHILE", TV Senado | HD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA531StarzCinemaFHD.png" group-title="Latino", LA531:Starz Cinema FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58770
+#EXTINF:-1 tvg-logo="" group-title="", TVMax
+http://ssai-apac.ooyala.com/hls/delta/CFLIVE/out/u/ezye7lz7hql35/107829/xkbjFrZjE6C0XcIGJRrNEk-TEe8LBvv8/cn/9f9cf618b2464b86b7a7a074ab605613.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA532StarzComedyFHD.png" group-title="Latino", LA532:Starz Comedy FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58769
+#EXTINF:-1 tvg-logo="" group-title="", TVN Panama
+http://ssai-apac.ooyala.com/hls/delta/CFLIVE/out/u/ezye7lz7hql35/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/34ee71d50185402b81af1ebb43af1706.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA534StarzEncoreActionFHD.png" group-title="Latino", LA534:Starz Encore Action FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58767
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f41IHoB.png" group-title="CHILE", TVN Señal de Pruebas | HD
+http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA539StarzEncoreSuspenseFHD.png" group-title="Latino", LA539:Starz Encore Suspense FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58762
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", TVP Los Mochis
+https://5a3911d64928b.streamlock.net/gpacifico2/smil:mochis.smil/chunklist_w1578529085_b978000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA541StarzFamilyHD.png" group-title="Latino", LA541:Starz Family HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58760
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", UESTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA542StarzFHD.png" group-title="Latino", LA542:Starz FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58759
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="MEXICO", Ultra TV Aguacalientes | HD
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA544StarzWestFHD.png" group-title="Latino", LA544:Starz West FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58757
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="MEXICO", Ultra TV Puebla | HD
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA560TELEFEHD.png" group-title="Latino", LA560:TELEFE HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58741
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", UMAG TV
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA566Telemundo51.png" group-title="Latino", LA566:Telemundo 51
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58735
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Uno
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA600Galavision.png" group-title="Latino", LA600:Galavision
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58701
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/wn.png" group-title="Internacional", Wather Nation (USA)
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA606TUDN.png" group-title="Latino", LA606:TUDN
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58695
+#EXTINF:-1, Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA611TelemundoBostonHD.png" group-title="Latino", LA611:Telemundo Boston HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58690
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0002/2390/brand.gif?itok=VjuQO7rI" group-title="Internacional", Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8?
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA633UniMasWest.png" group-title="Latino", LA633:UniMas West
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58668
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/wgn9.png" group-title="Internacional", WGN 9
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA651TIGOSPORT.png" group-title="Latino", LA651:TIGO SPORT
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58650
+#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="Cine", Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA659TelemundoChicagoHD.png" group-title="Latino", LA659:Telemundo Chicago HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58642
+#EXTINF:-1 tvg-logo="http://www.tdcgroup.org/media_library/logos_files/wowtv_logo.png" group-title="Entretenimiento", Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA662UnivisionNewYorkHD.png" group-title="Latino", LA662:Univision New York HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/58639
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eWqq06v.png" group-title="REPUBLICA DOMINICANA", Xtremo Channel Zol | SD
+http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG002:CINEMAX
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49750
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/EWcqEk5WMIM/maxresdefault.jpg" group-title="BRAZIL",Amazon Sat
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG003:CIUDAD MAGAZINE
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49749
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png" group-title="ARGENTINA",America HD
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG004:MAX PRIME
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49748
+#EXTINF:-1  tvg-logo="http://www.freeetv.com/images/01_logo/tv_aperipe.jpg" group-title="BRAZIL",Aperipe TV
+http://wz-brasil1.comets.com.br/tvaperipe/aovivo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG005:CNN EN ESPANIOL
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49747
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="http://live.campushd.tv/wp-content/uploads/2017/04/LOGO-CAMPUS.png",Campus HD
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG006:C5N HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49746
+#EXTINF:1,CANAL 8
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG009:COMEDY
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49743
+#EXTINF:-1 tvg-logo="http://logowow.net/logos/thumb-fDocFft2r.png" group-title="PERU",Canal RPP
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG012:E!
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49740
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Y9BkR86cEgMjBCHqPjBXdW7D_Lw5hmw5nkURoCh6bLqjAiD57JnmqwGS6FfVQNiytWk=h310" group-title="ECUADOR",Centro Ecuador
+http://unsecure.streann.com/loadbalancer/services/public/channels/57cef28b2cdc6843385b86ce/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG013:FOX
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49739
+#EXTINF:-1  tvg-logo="http://i.imgur.com/SYPYeHt.jpg" group-title="BRAZIL",Cine+
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG014:TeleMax (TLX)
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49738
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGHKzseXcAEiMIL.jpg" group-title="ARGENTINA",CN3 Pinamar
+http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG015:CINEAR
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49737
+#EXTINF:-1,CRIMEN E INVESTIGACION
+http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG016:CANALDELAMUSICA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49736
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zowFrNEOpTo/WI4N-4cC1HI/AAAAAAAAEd4/GFCFneNSFgQ4zF77gcE0myrnqlj78PbtACLcB/s1600/CTC%2BHD.png" group-title="PERU",CTC TV Cusco
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG018:CANAL 21 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49734
+#EXTINF:-1 tvg-logo="http://www.luperondigital.com/wp-content/uploads/2017/01/digital-15-vivo-Canales-Dominicanos.jpg" group-title="DOMINICAN REP",Digital 15
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG019:CANAL 26 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49733
+#EXTINF:0 tvg-logo="https://jefedejefes.files.wordpress.com/2009/04/logo_teaser.jpg" group-title="MEXICO",Efekto Tv HD
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_1_av-p.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG020:Canal 26 Noticias HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49732
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AD1LgcZ.png" group-title="Entretenimiento",Efekto TV HD
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_1_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG021:CANAL DE LA CIUDAD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49731
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Canal5HN2017.png/230px-Canal5HN2017.png",El Lider
+https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG022:AL SHAHED TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49730
+#EXTINF:-1 tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-Hechos-Ecuador.jpg" group-title="ECUADOR",Hechos Ecuador
+http://37.187.7.106/hechostv/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG023:FOX NEWS
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49729
+#EXTINF:-1,Lancelot TV PELI
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG024:CINE AR HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49728
+#EXTINF:-1 tvg-logo="https://imgur.com/t1qPpbK.jpg" group-title="INFANTIL",Locomotion
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG025:CINE ARGENTINA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49727
+#EXTINF:-1 tvg-logo="http://www.lunatv.do/stream/imagen/logo-stream.png" group-title="DOMINICAN REP",Luna Tv
+http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w321264520.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG027:FOX PREMIUM ACTION
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49725
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bhj6YkMyoHo/hqdefault.jpg" group-title="DOMINICAN REP",MicroVision Canal 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG028:FOX PREMIUM CLASSICS
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49724
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png" group-title="MEXICO" ,Multimedios
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG031:FOX PREMIUM FAMILY
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49721
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8yYq2Yd.jpg" group-title="DOMINICAN REP",Naranja TV
+http://ciez45.live.cloud.influxis.com/ciez45/_definst_/NaranjaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG032:FOX PREMIUM MOVIES
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49720
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/500px-Sol_tv_pe.png" group-title="PERU",Sol TV
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG034:Canal 26 HD °
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49718
+#EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2018/06/logo-latele-2016-2-1-3.png" group-title="URUGUAY",TeleDoce
+http://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG035:VOLVER
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49717
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/fdd1b1_ea866a37c0114866acf8472c1f42000d~mv2.png" group-title="COLOMBIA",Telemedellin
+http://level3itvo.cdnar.net/itvmedia/14/1/channel_000.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG036:FOX PREMIUM SERIES
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49716
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" group-title="DOMINICAN REP",Telemicro Canal 5  (Opt-2)
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0005&mode=12
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG037:VH1
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49715
+#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="DOMINICAN REP",Telenord Canal 12
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0028&mode=12
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG038:TeleFe
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49714
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/200px-TeleSUR-Logo.svg.png" group-title="VENEZUELA",TeleSUR
+https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG039:FX
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49713
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4_4lQS5_e0g/VmfAAPjGsgI/AAAAAAAAAjY/QCMhrAcZUYE/s1600/TEN.jpg" group-title="HONDURAS",TEN Canal 10
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG040:UNIVERSAL
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49712
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4_4lQS5_e0g/VmfAAPjGsgI/AAAAAAAAAjY/QCMhrAcZUYE/s1600/TEN.jpg" group-title="HONDURAS",TEN Canal 10 SD
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1248000.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG041:El Rural HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49711
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TSi_Honduras.png",TSi
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG042:El Trece Internacional
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49710
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="BRAZIL",TV Gazeta
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG044:FXM
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49708
+#EXTINF:-1  tvg-logo="http://s16.postimg.org/4rt4ter79/TV_INES.png" group-title="BRAZIL",TV INES
+http://liveabr2.sambatech.com.br/abr/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestreamabr.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG045:ESPN 2 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49707
+#EXTINF:-1 tvg-logo="http://imgur.com/bPUH9Zp.jpeg" group-title="MEXICO",TV Mas
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG046:ESPN 3 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49706
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/XNF7iTqRwBE/hqdefault.jpg" group-title="BRAZIL",TV MCJ
+http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG047:GLITZ
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49705
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_TV_PERU_2012.png" group-title="PERU",Tv Peru
+https://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG048:ESPN
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49704
+#EXTINF:-1  tvg-logo="http://www.tvriopreto.com.br/home/wp-content/uploads/TVN-2.png" group-title="BRAZIL",TV Rio Preto
+http://186.227.165.118:1935/insatv/livestream/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG049:FOX SPORTS HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49703
+#EXTINF:-1 tvg-logo="http://www.cronicadigital.cl/imagenes/noticias/2014/09/canal-senado1.jpeg" group-title="CHILE",Tv Senado 2 SD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG050:FOX SPORTS Premium HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49702
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="VENEZUELA",TvES
+http://198.24.135.42/canal10/canal10/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG052:GOL TV HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49700
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1AkNUo.jpg" group-title="CHILE",VC Online HD
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG053:GOURMET
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49699
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/u3-0ZnHM4GY/hqdefault.jpg" group-title="PUERTO RICO",WORO-TV Teleoro Canal 13
+http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG054:Espn arg
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49698
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG055:TOONCAST HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49697
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG056:H2
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49696
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG057:HBO 2
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49695
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG058:MUSIC TOP
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49694
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG059:HBO FAMILY
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49693
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG060:Pakapaka HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49692
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG062:FOX Sports 1 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49690
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG063:Telemax HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49689
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG065:TNT HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49687
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG066:HISTORY
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49686
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG067:TNT Sports HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49685
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG068:LIFETIME
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49684
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG071:TV CIUDAD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49681
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG072:MAS CHIC
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49680
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG073:FOX Sports 3 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49679
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG074:TyC Sports FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49678
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG075:VIVO 4
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49677
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG076:America TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49676
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentina", ARG077:FOX Sports 2 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/49675
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO001:Mundo Mas TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51319
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO002:TeleEnvigado
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51318
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO003:DirectTV Sports 2
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51317
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO004:WIN SPORT+
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51316
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO006:Canal Trece
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51314
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO007:WinSports
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51313
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO008:CLARO SPORT
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51312
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO009:NTN24
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51311
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO010:Cable Noticias
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51310
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO011:DirectTV Sports Plus
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51309
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO012:Win Sports HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51308
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO013:A3Series
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51307
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO014:Cablenoticias 24 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51306
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO015:Cali TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51305
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO016:Canal Capital HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51304
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO018:Caracol Institucional HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51302
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO020:Canal Wow TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51300
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO022:RCN HD2
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51298
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO023:CLARO SPORT
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51297
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO024:Teleantioquia HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51296
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO026:Senal Colombiana
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51294
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO028:DirectTV Sports 1
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51292
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO029:City Tv HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51291
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO032:Tele Musica
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51288
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO033:Tele Amiga
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51287
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO034:Caracol 2
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51286
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO035:Miami Tv Colombia FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51285
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO036:CARACOL INTERNACIONAL
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51284
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO037:Canal CNC Medellin
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51283
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO038:Cantinazo
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51282
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO040:Canal Acuario
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51280
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO041:Telemax HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51279
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO043:COMEDY CENTRAL
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51277
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO044:Tvgro
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51276
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO045:Canal Uno HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51275
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO046:TelePacificoTelePacifico TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51274
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO049:Fox Sports 1
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51271
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO051:RCN FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51269
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO052:RCN Novelas
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51268
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO055:El Tiempo HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51265
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO059:ToonCast
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51262
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO059:ToonCast
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51261
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO060:FOX CLASSICS
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51260
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO061:Fox Sports 2
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51259
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO062:Telemedellin HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51228
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO064:Telecaribe FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51213
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia", CO066:DirectTV Sports
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51194
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Peru", PE002:AMERICA TELEVISION
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51349
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Peru", PE003:AMERICA TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51348
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Peru", PE006:ATV HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51345
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Peru", PE007:ATV Plus
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51344
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Peru", PE008:ATV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51343
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Peru", PE010:America TV HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51341
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Peru", PE014:FRECUENCIA LATINA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51337
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Peru", PE015:GOL PERU HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51336
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Peru", PE016:GOL TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51335
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Peru", PE018:La Tele
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51333
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Peru", PE019:LATINA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51332
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Peru", PE021:MoviStar Deportes HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51330
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Peru", PE022:MoviStar Plus TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51329
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Peru", PE023:CAPITAL TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51328
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Peru", PE024:CANAL N
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51327
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Peru", PE026:PANAMERICANA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51325
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Peru", PE028:TV PERU NOTICIAS
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51323
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX001:ADN 40
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51457
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX002:NU9VE TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51456
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX003:AYM Sports
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51455
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX004:Az Corazon HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51454
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX005:Azteca 7 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51453
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX007:TP AFORE AZTECA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51451
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX008:Azteca Corazon
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51450
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX009:Azteca HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51449
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX010:TDN
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51448
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX012:Azteca undo
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51446
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX013:CANAL1944
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51445
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX014:Azteca Uno FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51444
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX016:Bandamax
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51442
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX017:CANAL2089
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51441
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX018:Canal 5 FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51440
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX019:CANAL2331
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51439
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX020:CANAL2355
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51438
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX021:CANAL401
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51437
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX022:CANAL470
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51436
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX023:VTV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51435
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX027:CNN
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51431
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX029:DE PELICULA  HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51429
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX030:Discovery CHANNEL HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51428
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX031:Discovery CIVILIZATION HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51427
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX032:Discovery H&H HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51426
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX033:Discovery TURBO HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51425
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX035:El Canal De Las Estrellas
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51423
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX037:ESPN 1
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51421
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX038:ESPN 2 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51420
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX039:ESPN 3 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51419
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX040:A&E
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51418
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX041:ESPN NETWORK
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51417
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX042:ESPN Plus
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51416
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX044:AL JAZZERA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51414
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX045:FILM & ART HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51413
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX046:Foro TV FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51412
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX047:FOX HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51411
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX048:Fox Life
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51410
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX049:Fox Premium Action
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51409
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX050:E! Entertainment HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51408
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX051:ANTENA3
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51407
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX052:Distrito Comedia
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51406
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX054:Fox Premium Series
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51404
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX055:FOX SERIES HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51403
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX056:FOX SPORTS 1 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51402
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX057:FOX SPORTS 2 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51401
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX058:FOX SPORTS 3
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51400
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX059:FXM HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51399
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX060:AXN
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51398
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX061:AZTECA 1
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51397
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX062:GOLDEN EDGE HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51396
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX064:HISTORY HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51394
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX065:HOLA TV HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51393
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX066:I CLASSIC HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51392
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX067:Imagen TV FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51391
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX068:Ingenio Tv
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51390
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX069:LAS ESTRELLAS HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51389
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX070:Lifetime
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51388
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX071:Mexiquice
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51387
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX072:Milenio Tv
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51386
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX073:MULTIMEDIOS HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51385
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX075:Azteca Deportes
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51383
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX076:NICK 2 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51382
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX077:NICK HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51381
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX078:NICKTOONS
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51380
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX080:BABY FIRST
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51378
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX081:BBC WORLD NEWS
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51377
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX082:PARAMOUNT HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51376
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX083:BLOMMBERG
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51375
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX084:BLOOMBERG
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51374
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX085:BOOMERANG
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51373
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX087:SYFY HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51371
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX088:CADEND TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51370
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX089:CANAL 26
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51369
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX090:Telehit Plus
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51368
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX092:Televisa
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51366
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX093:CANAL 7
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51365
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX094:CANAL 8
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51364
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX095:CANAL107
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51363
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX097:CANAL109
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51361
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX098:CANAL1749
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51360
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX099:TNT HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51359
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX100:CANAL1899
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51358
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX101:CANAL1932
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51357
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX102:CANAL2062
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51356
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX103:CANAL2278
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51355
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX104:CANAL2319
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51354
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mexico", MX106:Unicable FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/51352
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Caribbean", CAR001:EURONEWS
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/59544
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Caribbean", CAR007:FOX PREMIUM MOVIES EAST
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/59538
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Caribbean", CAR016:DANCEHALL REGGAE
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/59529
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Caribbean", CAR018:CUBA V
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/59527
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Caribbean", CAR019:AL JAZEERA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/59526
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Caribbean", CAR020:ISAT
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/59525
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Caribbean", CAR021:JNN - JAMAICA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/59524
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Caribbean", CAR022:MTM - Jamaica | HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/59523
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Caribbean", CAR023:COOKING CHANNEL
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/59522
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Caribbean", CAR038:TVJ
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/59507
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Caribbean", CAR046:FLOW Sports
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/59499
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Caribbean", CAR049:TVJ
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/59496
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Caribbean", CAR055:BAHAMAS PARLIAMENT
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/59490
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Caribbean", CAR056:CANAL SONY
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/59489
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Caribbean", CAR057:CVM TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/59488
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES070TNTES.png" group-title="ES Ent", ES070:TNT HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2534
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES220TNT.png" group-title="ES Ent", ES220:TNT FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52387
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES006AXNES.png" group-title="ES Ent", ES006:AXN ES
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2598
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES212AXN.png" group-title="ES Ent", ES212:AXN
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52395
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES211AXNWhiteHD.png" group-title="ES Ent", ES211:AXN White HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52396
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES043FoxES.png" group-title="ES Ent", ES043:Fox ES
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2561
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES209FOXLifeHD.png" group-title="ES Ent", ES209:FOX Life HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52398
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES066SyfyES.png" group-title="ES Ent", ES066:Syfy ES
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2538
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES208SYFY.png" group-title="ES Ent", ES208:SYFY
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52399
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES111VH1.png" group-title="ES Ent", ES111:VH1
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29281
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES012Calle13.png" group-title="ES Ent", ES012:Calle 13
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2592
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES213Calle13HD.png" group-title="ES Ent", ES213:Calle 13 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52394
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES067TCMES.png" group-title="ES Ent", ES067:TCM ES
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2537
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES222ParamountChannel.png" group-title="ES Ent", ES222:Paramount Channel
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52385
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES065Paramount.png" group-title="ES Ent", ES065:Paramount
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2539
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES167SUNDANCEFHD.png" group-title="ES Ent", ES167:SUNDANCE FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29225
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES047Hollywood.png" group-title="ES Ent", ES047:Hollywood
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2557
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES223HollywoodHD.png" group-title="ES Ent", ES223:Hollywood HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52384
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES030ComedyCentral.png" group-title="ES Ent", ES030:Comedy Central
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2574
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES269CLANTVE.png" group-title="ES Ent", ES269:CLAN TVE
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52338
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES004AMCES.png" group-title="ES Ent", ES004:AMC ES
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2600
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES255AMC.png" group-title="ES Ent", ES255:AMC
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52352
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES178TVGalicia.png" group-title="ES Ent", ES178:TV Galicia
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29214
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES154GALICIATV.png" group-title="ES Ent", ES154:GALICIA TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29238
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES032CrimenInvestigation.png" group-title="ES Cultura", ES032:Crimen Investigation
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2572
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES149CRIMEN&INVESTIGACION.png" group-title="ES Cultura", ES149:CRIMEN & INVESTIGACION
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29243
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES001#0HD.png" group-title="ES Ent", ES001:#0 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2603
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES003A&EES.png" group-title="ES Ent", ES003:A&E ES
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2601
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES081SOMOS.png" group-title="ES Ent", ES081:SOMOS
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29311
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES033Cuatro.png" group-title="ES Ent", ES033:Cuatro
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2571
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES061CanalDECase.png" group-title="ES Ent", ES061:Canal DE Case
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2543
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES094#0.png" group-title="ES Ent", ES094:#0
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29298
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES124SyfyHD.png" group-title="ES Ent", ES124:Syfy HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29268
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES141CanaldelasEstrellas.png" group-title="ES Ent", ES141:Canal de las Estrellas
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29251
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES148TVELA2HD.png" group-title="ES Ent", ES148:TVE LA 2 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29244
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES152EsperanzaTV.png" group-title="ES Ent", ES152:Esperanza TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29240
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES159NCuatroHD.png" group-title="ES Ent", ES159:N Cuatro HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29233
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES176TELESURHD.png" group-title="ES Ent", ES176:TELESUR HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29216
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES179TV3Cat.png" group-title="ES Ent", ES179:TV3 Cat
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29213
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES180TVE24H.png" group-title="ES Ent", ES180:TVE 24H
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29212
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES194Cuatro.png" group-title="ES Ent", ES194:Cuatro
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52413
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES195NCuatroHD.png" group-title="ES Ent", ES195:N Cuatro HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52412
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES254A&E.png" group-title="ES Ent", ES254:A&E
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52353
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES163Teledeporte.png" group-title="ES Deportes", ES163:Teledeporte
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29229
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES153BARCATV.png" group-title="ES Deportes", ES153:BARCA TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29239
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES182M1.png" group-title="ES Deportes", ES182:Movistar Liga de Campeones 1
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52425
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES151RealMadridTV.png" group-title="ES Deportes", ES151:Real Madrid TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29241
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES243RealMadridTV.png" group-title="ES Deportes", ES243:RealMadrid TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52364
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES242MovistarF1.png" group-title="ES Deportes", ES242:Movistar F1
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52365
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES045GOLTV.png" group-title="ES Deportes", ES045:GOL TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2559
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES183M2.png" group-title="ES Deportes", ES183:Movistar Liga de Campeones 2
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52424
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES275EUROSPORT2.png" group-title="ES Deportes", ES275:EUROSPORT 2
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52332
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES089LaLigaBARHD.png" group-title="ES Deportes", ES089:La Liga BAR HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29303
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES133M. DEPORTES 1.png" group-title="ES Deportes", ES133:M. DEPORTES 1
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29259
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES134M. DEPORTES 2.png" group-title="ES Deportes", ES134:#VolverEsGanar
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29258
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES135M. DEPORTES 3.png" group-title="ES Deportes", ES135:M. DEPORTES 3
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29257
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES172:DaznES.png" group-title="ES Deportes", ES172:Dazn ES ( Match time only)
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29220
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES051LaLigaTV.png" group-title="ES Deportes", ES051:LaLiga TV Bar
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2553
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES014MDeportes2.png" group-title="ES Deportes", ES014:M Deportes 2
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2590
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES015MDeportes1.png" group-title="ES Deportes", ES015:M Deportes 1
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2589
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES010MLigadeCam.png" group-title="ES Deportes", ES010:M Liga de Campeones
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2594
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES018MGolf.png" group-title="ES Deportes", ES018:M Golf
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2586
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES026MFormula1.png" group-title="ES Deportes", ES026:M Formula 1
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2578
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES040EuroSport1.png" group-title="ES Deportes", ES040:Euro Sport 1
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2564
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES041EuroSport2.png" group-title="ES Deportes", ES041:Euro Sport 2
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2563
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES079Vamos.png" group-title="ES Deportes", ES079:Vamos
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29313
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES084MLaLIGA.png" group-title="ES Deportes", ES084:M.LaLIGA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29308
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES085M LigadeCampeones.png" group-title="ES Deportes", ES085:M.Liga de Campeones
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29307
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES086CanalDEPORTESHD.png" group-title="ES Deportes", ES086:Canal  DEPORTES HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29306
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES087CanalDEPORTES2HD.png" group-title="ES Deportes", ES087:Canal  DEPORTES 2 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29305
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES088CanalDCINEHD.png" group-title="ES Cine", ES088:Canal DCINE HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29304
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES092MOVISTARLiga.png" group-title="ES Deportes", ES092:M. LaLiga HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29300
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES121MOVISTAR LaLiga.png" group-title="ES Deportes", ES121:MOVISTAR LaLiga HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29271
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES122MOVISTAR LaLiga.png" group-title="ES Deportes", ES122:MOVISTAR LaLiga FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29270
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES132VamosFHD.png" group-title="ES Deportes", ES132:Vamos FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29260
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES136MLaLiga1.png" group-title="ES Deportes", ES136:M. LaLiga 1
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29256
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES144WillowCricke.png" group-title="ES Deportes", ES144:Willow Cricket
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29248
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES156LaLiga123HD.png" group-title="ES Deportes", ES156:LaLiga 123 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29236
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES185M4.png" group-title="ES Deportes", ES185:Movistar Liga de Campeones 4
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52422
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES166DAZNMOTOGP.png" group-title="ES Deportes", ES166:DAZN MOTO GP
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29226
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES191MFORMULA1HD.png" group-title="ES Deportes", ES191:M FORMULA 1 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52416
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES193M FUTBOL.png" group-title="ES Deportes", ES193:M FUTBOL HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52414
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES231TorosTv.png" group-title="ES Deportes", ES231:Toros Tv
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52376
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES250EUROSPORT.png" group-title="ES Deportes", ES250:EUROSPORT
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52357
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES251CanalDeportes.png" group-title="ES Deportes", ES251:Canal  Deportes
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52356
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES257BeinSportHD.png" group-title="ES Deportes", ES257:BeinSport HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52350
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES258MOVISTAR LaLiga.png" group-title="ES Deportes", ES258:MOVISTAR LaLiga HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52349
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES262CANALFormulaOne.png" group-title="ES Cine", ES262:CANAL Formula One
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52345
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES264CANALMotoGP.png" group-title="ES Deportes", ES264:CANAL MotoGP
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52343
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES266CANALTorosTV.png" group-title="ES Deportes", ES266:CANAL Toros TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52341
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES071Viajar.png" group-title="ES Cultura", ES071:Viajar
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2533
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES083VIAJARHD.png" group-title="ES Cultura", ES083:VIAJAR HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29309
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES145VIAJARFHD.png" group-title="ES Cultura", ES145:VIAJAR FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29247
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES057NATGEOES.png" group-title="ES Cultura", ES057:NAT GEO ES
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2547
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES228NationalGeographic.png" group-title="ES Cultura", ES228:National Geographic
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52379
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES056NATGEOWILDES.png" group-title="ES Cultura", ES056:NAT GEO WILD ES
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2548
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES229NatGeoWild.png" group-title="ES Cultura", ES229:Nat Geo Wild
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52378
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES028CazaYPesca.png" group-title="ES Cultura", ES028:Caza Y Pesca
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2576
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES268CAZA-Y-PESCA.png" group-title="ES Cultura", ES268:CAZA-Y-PESCA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52339
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES048Iberalia.png" group-title="ES Cultura", ES048:Iberalia
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2556
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES046Historia.png" group-title="ES Cultura", ES046:Historia
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2558
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES230Historia.png" group-title="ES Cultura", ES230:Historia
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52377
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES075EXTREMADURATV.png" group-title="ES Cultura", ES075:EXTREMADURA TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29317
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES129ExtremaduraTV.png" group-title="ES Cultura", ES129:Extremadura TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29263
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES142ExtremaduraTV.png" group-title="ES Cultura", ES142:Extremadura TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29250
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES074ExtremaduraHD.png" group-title="ES Cultura", ES074:Extremadura HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29318
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES073DKISS.png" group-title="ES Cultura", ES073:DKISS
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29319
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES097DMAX.png" group-title="ES Cultura", ES097:DMAX
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29295
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES238CanalDeCasa.png" group-title="ES Cultura", ES238:Canal DeCasa
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52369
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES034DiscoveryES.png" group-title="ES Cultura", ES034:Discovery ES
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2570
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES271DISCOVERY.png" group-title="ES Cultura", ES271:DISCOVERY
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52336
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES058NEOX.png" group-title="ES Cultura", ES058:NEOX
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2546
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES227NeoxTv.png" group-title="ES Cultura", ES227:Neox Tv
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52380
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES042FDF.png" group-title="ES Cultura", ES042:FDF
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2562
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES038Divinity.png" group-title="ES Cultura", ES038:Divinity
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2566
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES272Divinity.png" group-title="ES Cultura", ES272:Divinity °
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52335
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES082CANALCOCINA.png" group-title="ES Cultura", ES082:CANAL COCINA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29310
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES139CANALCOCINA.png" group-title="ES Cultura", ES139:CANAL COCINA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29253
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES080BLAZE.png" group-title="ES Cultura", ES080:BLAZE
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29312
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES054Mega.png" group-title="ES Cultura", ES054:Mega
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2550
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES161Mega.png" group-title="ES Cultura", ES161:Mega
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29231
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES234Mega.png" group-title="ES Cultura", ES234:Mega
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52373
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES031Cosmo.png" group-title="ES Cultura", ES031:Cosmo
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2573
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES237CosmoFHD.png" group-title="ES Cultura", ES237:Cosmo FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52370
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES024DeCasa.png" group-title="ES Cultura", ES024:DeCasa
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2580
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES270Decasa.png" group-title="ES Cultura", ES270:Decasa
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52337
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES039Energy.png" group-title="ES Cultura", ES039:Energy
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2565
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES00224Horas.png" group-title="ES Cine", ES002:24 Horas
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2602
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES25324-Horas.png" group-title="ES Cine", ES253:24-Horas °
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52354
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES049LA1.png" group-title="ES Cine", ES049:LA 1
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2555
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES277LA1.png" group-title="ES Cine", ES277:LA 1
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52330
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES005Antena3.png" group-title="ES Cine", ES005:Antena 3 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2599
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES068Telecinco.png" group-title="ES Cine", ES068:Telecinco HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2536
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES160Telecinco.png" group-title="ES Cine", ES160:Telecinco FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29232
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES162Telecinco.png" group-title="ES Cine", ES162:Telecinco
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29230
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES052LaSexta.png" group-title="ES Cine", ES052:La Sexta HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2552
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES072ARAGONTV.png" group-title="ES Cine", ES072:ARAGON TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29320
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES119ARAGONTV.png" group-title="ES Cine", ES119:ARAGON TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29273
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES109CANALSURA.png" group-title="ES Cine", ES109:CANAL SUR A
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29283
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES206CanalSurHD.png" group-title="ES Cine", ES206:Canal Sur HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52401
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES062NOVA.png" group-title="ES Cine", ES062:NOVA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2542
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES120Nova.png" group-title="ES Cine", ES120:Nova
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29272
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES118AndaluciaTV.png" group-title="ES Cine", ES118:Andalucia TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29274
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES108CanalHollywood.png" group-title="ES Cine", ES108:Canal Hollywood
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29284
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES063Odisea.png" group-title="ES Cine", ES063:Odisea
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2541
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES232OdiseaTv.png" group-title="ES Cine", ES232:Odisea Tv
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52375
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES128TAQUILLA6HD.png" group-title="ES Cine", ES128:TAQUILLA 6 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29264
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES099TAQUILLA10.png" group-title="ES Cine", ES099:TAQUILLA 10
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29293
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES100TAQUILLA2.png" group-title="ES Cine", ES100:TAQUILLA 2
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29292
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES101TAQUILLA3.png" group-title="ES Cine", ES101:TAQUILLA 3
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29291
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES102TAQUILLA4.png" group-title="ES Cine", ES102:TAQUILLA 4
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29290
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES103TAQUILLA5.png" group-title="ES Cine", ES103:TAQUILLA 5
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29289
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES104TAQUILLA6.png" group-title="ES Cine", ES104:TAQUILLA 6
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29288
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES105TAQUILLA7.png" group-title="ES Cine", ES105:TAQUILLA 7
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29287
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES106TAQUILLA8.png" group-title="ES Cine", ES106:TAQUILLA 8
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29286
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES107TAQUILLA9.png" group-title="ES Cine", ES107:TAQUILLA 9
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29285
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES126TAQUILLA1HD.png" group-title="ES Cine", ES126:TAQUILLA 1 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29266
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES127TAQUILLA4HD.png" group-title="ES Cine", ES127:TAQUILLA 4 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29265
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES098TAQUILLA1.png" group-title="ES Cine", ES098:TAQUILLA 1
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29294
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES090CanalSERIESHD.png" group-title="ES Cine", ES090:Canal SERIES HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29302
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES168TAQUILLA2HD.png" group-title="ES Cine", ES168:TAQUILLA 2 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29224
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES169TAQUILLA3HD.png" group-title="ES Cine", ES169:TAQUILLA 3 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29223
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES170TAQUILLA5HD.png" group-title="ES Cine", ES170:TAQUILLA 5 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29222
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES171TAQUILLA7HD.png" group-title="ES Cine", ES171:TAQUILLA 7 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29221
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES177Antena3HD.png" group-title="ES Cine", ES177:Antena 3 SD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29215
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES192Antena3HD.png" group-title="ES Cine", ES192:Antena 3 FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52415
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES259CANALACCIONHD.png" group-title="ES Cine", ES259:CANAL ACCION HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52348
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES260CANALComedia.png" group-title="ES Cine", ES260:CANAL Comedia
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52347
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES261CANALEstrenos.png" group-title="ES Cine", ES261:CANAL Estrenos
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52346
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES265CANALSeriesXtra.png" group-title="ES Cine", ES265:CANAL Series Xtra
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52342
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES219MovistarEstrenos.png" group-title="ES Movistar", ES219:Movistar Estrenos
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52388
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES013MAction.png" group-title="ES Movistar", ES013:M Action
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2591
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES016MEstrenos.png" group-title="ES Movistar", ES016:M Estrenos
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2588
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES214MovistarAccion.png" group-title="ES Movistar", ES214:Movistar Accion
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52393
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES077MoviStarCine.png" group-title="ES Movistar", ES077:MoviStar Cine ?
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29315
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES053MComedia.png" group-title="ES Movistar", ES053:M Comedia
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2551
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES215MovistarComediaHD.png" group-title="ES Movistar", ES215:Movistar Comedia HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52392
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES078MovistarCineDoc&Roll.png" group-title="ES Movistar", ES078:Movistar CineDoc&Roll
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29314
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES019MSeriesXtra.png" group-title="ES Movistar", ES019:M Series Xtra
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2585
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES021MXtra.png" group-title="ES Movistar", ES021:M Xtra
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2583
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES023MDcine.png" group-title="ES Movistar", ES023:M Dcine
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2581
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES158MoviStarCINE.png" group-title="ES Movistar", ES158:MoviStar CINE
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29234
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES216MovistarDCine.png" group-title="ES Movistar", ES216:Movistar DCine
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52391
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES217MovistarXtra.png" group-title="ES Movistar", ES217:Movistar Xtra
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52390
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES218MovistarSeriesXtra.png" group-title="ES Movistar", ES218:Movistar Series Xtra
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52389
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES110Alquiler1HD.png" group-title="ES Alquiler", ES110:Alquiler 1 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29282
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES112Alquiler3HD.png" group-title="ES Alquiler", ES112:Alquiler 3 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29280
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES113Alquiler4HD.png" group-title="ES Alquiler", ES113:Alquiler 4 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29279
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES114Alquiler5HD.png" group-title="ES Alquiler", ES114:Alquiler 5 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29278
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES117Alquiler9HD.png" group-title="ES Alquiler", ES117:Alquiler 9 HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29275
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES244MovistarAlquilerPresentation.png" group-title="ES Alquiler", ES244:Movistar Alquiler Presentation
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52363
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES245MovistarAlquiler10FHD.png" group-title="ES Alquiler", ES245:Movistar Alquiler 10 FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52362
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES246MovistarAlquiler11FHD.png" group-title="ES Alquiler", ES246:Movistar Alquiler 11 FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52361
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES247MovistarAlquiler12FHD.png" group-title="ES Alquiler", ES247:Movistar Alquiler 12 FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52360
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES248MovistarAlquilerMultivision1FHD.png" group-title="ES Alquiler", ES248:Movistar Alquiler Multivision 1 FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52359
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES249MovistarAlquilerMultivision2FHD.png" group-title="ES Alquiler", ES249:Movistar Alquiler Multivision 2 FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52358
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES147Classica.png" group-title="ES Musica", ES147:Classica
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29245
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES235MTVespana.png" group-title="ES Musica", ES235:MTV espana
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52372
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES076MEZZOLIVEHD.png" group-title="ES Musica", ES076:MEZZO LIVE HD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29316
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES157MEZZOLIVEFHD.png" group-title="ES Musica", ES157:MEZZO LIVE FHD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29235
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES064Panda.png" group-title="ES Ninos", ES064:Panda
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2540
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES060NickelodeonES.png" group-title="ES Ninos", ES060:Nickelodeon ES
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2544
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES059NICKJRES.png" group-title="ES Ninos", ES059:NICK JR ES
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2545
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES037DisneyXDES.png" group-title="ES Ninos", ES037:Disney XD ES
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2567
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES035DisneyES.png" group-title="ES Ninos", ES035:Disney ES
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/2569
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES143CANALPANDA.png" group-title="ES Ninos", ES143:CANAL PANDA
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/29249
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES240Panda.png" group-title="ES Ninos", ES240:Panda
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52367
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES205DisneyChannel.png" group-title="ES Ninos", ES205:Disney Channel
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52402
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES204Nickelodeon.png" group-title="ES Ninos", ES204:Nickelodeon
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52403
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES202DisneyXD.png" group-title="ES Ninos", ES202:Disney XD
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52405
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES200BabyTV.png" group-title="ES Ninos", ES200:Baby TV
-http://ete8.oknirvana.club:8880/test555/Pr4NRMUubB/52407
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/u3-0ZnHM4GY/hqdefault.jpg" group-title="PUERTO RICO",WORO-TV Teleoro Canal 13*
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPR0008&mode=12
